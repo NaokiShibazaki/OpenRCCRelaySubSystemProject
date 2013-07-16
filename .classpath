@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="/Users/ShibazakiNaoki/Desktop/twitter4j-3.0.3/lib/twitter4j-async-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ShibazakiNaoki/Desktop/twitter4j-3.0.3/lib/twitter4j-core-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/ShibazakiNaoki/Desktop/twitter4j-3.0.3/lib/twitter4j-examples-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ShibazakiNaoki/Desktop/twitter4j-3.0.3/lib/twitter4j-media-support-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ShibazakiNaoki/Downloads/roombacomm.jar"/>
+	<classpathentry kind="lib" path="/Users/ShibazakiNaoki/Downloads/bluecove-2.1.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/ShibazakiNaoki/Desktop/rxtx-2.1-7-bins-r2/RXTXcomm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
